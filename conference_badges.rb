@@ -19,7 +19,7 @@ def assign_rooms(speakers)
 end
 
 def printer(speakers)
-  puts badges
+  puts badges[0]
   puts room_assignment
   
 end
