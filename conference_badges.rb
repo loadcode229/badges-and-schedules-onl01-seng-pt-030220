@@ -12,7 +12,6 @@ end
 
 def assign_rooms(speakers)
   rooms = []
-  counter = 1
   rooms.each do |speaker, room|
     rooms << "Hello, #{speaker}! You'll be assigned to room #{room}!"
   end
