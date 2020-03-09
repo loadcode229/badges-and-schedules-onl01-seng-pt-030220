@@ -17,4 +17,5 @@ def assign_rooms(speakers)
     return "Hello, #{speaker}! You'll be assigned to room #{room}!"
     counter += 1
   end
+  return rooms
 end
