@@ -11,5 +11,5 @@ def batch_badge_creator(speakers)
 end
 
 def assign_rooms(speakers, rooms)
-  return "Hello, #{speakers}! You'll be assigned to room #{"
+  return "Hello, #{speakers}! You'll be assigned to room #{room_num}!"
 end
