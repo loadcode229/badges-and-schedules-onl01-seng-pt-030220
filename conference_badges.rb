@@ -12,7 +12,11 @@ end
 
 def assign_rooms(speakers)
   [1, 2, 3, 4, 5, 6, 7].each_with_index do |room_num, index|
-    
+    puts "#{num}"
+  if ((idx) % 2 == 0) 
+    puts "end of line" 
+  end 
+end 
 end
 
 def printer
