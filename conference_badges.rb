@@ -15,6 +15,7 @@ def assign_rooms(speakers)
     puts "Hello, #{speakers}! You'll be assigned to room #{room_num}!"
   if ((index) %  1 == 0) 
   end
+  return speakers
 end 
 end
 
