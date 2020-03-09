@@ -25,6 +25,7 @@ def printer(speakers)
   
   assign_rooms(speakers).each do |index|
     puts index
+  end
 end
 
 
