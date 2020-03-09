@@ -15,7 +15,6 @@ def assign_rooms(speakers)
     puts "Hello, #{speakers}! You'll be assigned to room #{room_num}!"
   if ((idx) %  1 == 0) 
     puts "end of line" 
-  end 
 end 
 end
 
